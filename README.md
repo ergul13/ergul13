@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello there 👋
 
 -  I’m currently working on ML&DL
 -  I’m interested in Syber-Security
